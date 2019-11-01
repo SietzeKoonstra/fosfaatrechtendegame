@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;;
+	}
+	
+body {
+	background-image: url("bg.jpg");
+	background-size: cover;
+	min-height: 100vh;
+}
+div.content{
+	margin: 0 auto;
+	width: 640px;
+	text-align: center;
+}	
+p, h1 {
+	text-align: center;
+	color: black;
+}
+canvas {
+	margin-top: 20px;
+}
+div.uitleg, div.gameDingen{
+	background-color: lightgreen;
+	border-radius: 10px;
+	margin-top: 20px;
+}
